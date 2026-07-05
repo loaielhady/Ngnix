@@ -7,5 +7,5 @@
 | Load balance |Explain load balance and how to config two local app using node js  |
 | Customize logs  |Edit log file in a way that helps with review and protection|
 | Generate a Self-Signed SSL Certificate  |Configure your Nginx server block to use  ssl|
-
+| Project `Weathercontext`  |Serving a static website and add domain name , ssl certificate|
 
